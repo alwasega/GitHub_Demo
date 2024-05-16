@@ -1,1 +1,3 @@
-Learning Git and github is fun!
+Learning Git and github is not fun. 
+
+But I like the problem solving part. 
